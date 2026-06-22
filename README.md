@@ -2,7 +2,7 @@
 
 A portfolio of zero-bloat, high-performance computing infrastructure engines built from scratch using pure **C++20**, **CUDA**, and the **Linux Systems API**. 
 
-Targeting production-grade infrastructure, bare-metal hardware optimization, and absolute zero-memory-leak designs for deep-tech roles (NVIDIA, OpenAI, Anthropic, Google).
+Targeting production-grade infrastructure, bare-metal hardware optimization, and absolute zero-memory-leak designs for deep-tech roles.
 
 ---
 
